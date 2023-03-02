@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tableInReact/static/css/main.6695d9f4.css",
+    "main.js": "/tableInReact/static/js/main.3d4d9c36.js",
+    "index.html": "/tableInReact/index.html",
+    "main.6695d9f4.css.map": "/tableInReact/static/css/main.6695d9f4.css.map",
+    "main.3d4d9c36.js.map": "/tableInReact/static/js/main.3d4d9c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6695d9f4.css",
+    "static/js/main.3d4d9c36.js"
+  ]
+}
